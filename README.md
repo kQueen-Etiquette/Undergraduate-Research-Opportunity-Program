@@ -9,5 +9,5 @@ Team Members <br>
 - K Sriharsha
 
 <br>
-Dataset link <br>
+Dataset link: <br>
 https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge
